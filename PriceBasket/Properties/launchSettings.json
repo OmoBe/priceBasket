@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "PriceBasket": {
+      "commandName": "Project",
+      "commandLineArgs": "apples"
+    }
+  }
+}

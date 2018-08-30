@@ -1,0 +1,11 @@
+Z:\2017-2018\consoleapp\PriceBasket\PriceBasket\bin\Debug\netcoreapp2.0\PriceBasket.deps.json
+Z:\2017-2018\consoleapp\PriceBasket\PriceBasket\bin\Debug\netcoreapp2.0\PriceBasket.runtimeconfig.json
+Z:\2017-2018\consoleapp\PriceBasket\PriceBasket\bin\Debug\netcoreapp2.0\PriceBasket.runtimeconfig.dev.json
+Z:\2017-2018\consoleapp\PriceBasket\PriceBasket\bin\Debug\netcoreapp2.0\PriceBasket.dll
+Z:\2017-2018\consoleapp\PriceBasket\PriceBasket\bin\Debug\netcoreapp2.0\PriceBasket.pdb
+Z:\2017-2018\consoleapp\PriceBasket\PriceBasket\obj\Debug\netcoreapp2.0\PriceBasket.csprojAssemblyReference.cache
+Z:\2017-2018\consoleapp\PriceBasket\PriceBasket\obj\Debug\netcoreapp2.0\PriceBasket.csproj.CoreCompileInputs.cache
+Z:\2017-2018\consoleapp\PriceBasket\PriceBasket\obj\Debug\netcoreapp2.0\PriceBasket.AssemblyInfoInputs.cache
+Z:\2017-2018\consoleapp\PriceBasket\PriceBasket\obj\Debug\netcoreapp2.0\PriceBasket.AssemblyInfo.cs
+Z:\2017-2018\consoleapp\PriceBasket\PriceBasket\obj\Debug\netcoreapp2.0\PriceBasket.dll
+Z:\2017-2018\consoleapp\PriceBasket\PriceBasket\obj\Debug\netcoreapp2.0\PriceBasket.pdb
