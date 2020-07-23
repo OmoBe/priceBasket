@@ -1,2 +1,2 @@
 # priceBasket
-Console application which calculates total for a shopping discount after applying discounts
+Console application which calculates total for a shopping basket after applying discounts
